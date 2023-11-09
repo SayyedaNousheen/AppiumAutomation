@@ -1,0 +1,7 @@
+Issue 1:
+java.lang.NoSuchMethodError: 'void org.openqa.selenium.remote.http.ClientConfig.<init>(java.net.URI, java.time.Duration, java.time.Duration, org.openqa.selenium.remote.http.Filter, java.net.Proxy, org.openqa.selenium.Credentials)'
+Solution --> upgraded java-client dependency version to 8.6.0
+
+Issue 2:
+
+
